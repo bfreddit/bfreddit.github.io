@@ -28,7 +28,7 @@ flair.updateFilter = function(text) {
     
     for (var unit_id in flair.by_id) {
         if (flair.by_id.hasOwnProperty(unit_id)) {
-            var unit_name = flair.by_id[unit_id].poke_name.toLowerCase();
+            var unit_name = flair.by_id[unit_id].unit_name.toLowerCase();
             var sheet = flair.by_id[unit_id].sheet;
             
             var el = document.querySelector('.flair-choice[data-id="'+unit_id+'"]');
@@ -36,9 +36,9 @@ flair.updateFilter = function(text) {
                 continue;
             
             if (
-                    // check poke_name
+                    // check unit_name
                     (text.length == 0 || text == unit_name || (unit_name.indexOf(text) !== -1 && isNaN(text)) ||
-                    // check poke_id
+                    // check unit_id
                     text === unit_id || text === flair.by_id[unit_id].orig_id) &&
                     // check sheet
                     (flair.sheet_filter === null || flair.sheet_filter === sheet)

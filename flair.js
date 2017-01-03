@@ -30,9 +30,9 @@ flair.load__by_id = function() {
                 key: key,
                 spritepos: data[0],
                 sheet: data[1],
-                poke_id: data[2],
+                unit_id: data[2],
                 orig_id: orig_id,
-                poke_name: flair.names[key],
+                unit_name: flair.names[key],
                 flair_class: ' flair-'+data[0] + ' flair-'+data[1] + ' flair-'+data[2]
             }
         }

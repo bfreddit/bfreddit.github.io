@@ -21,9 +21,9 @@
     </div>
     <div id="help-bubble" class="wrapper no-margin hide">
         <h3>Help Info</h3>
-        <p><b>Usage:</b> click on a flair below, using either of the two filters to narrow your search. Optionally enter
-        a flair text in the field that says "Insert flair text here", this is the text that goes below your username
-        in the user nameplate.</p>
+        <p><b>Usage:</b> Click on a flair below, using either of the two filters to narrow your search. Optionally enter
+        a flair text in the field that says "Insert flair text here", this is the text that will appear when you hover
+        over your flair in the subreddit.</p>
         
         <p>Once happy with your selection, click "Send Flair Request" which will open up a message form to /u/MimicBot,
         do not change anything, just click send. You should receive a reply from the bot within several moments notifying
@@ -51,7 +51,7 @@
     </div>
     <div class="wrapper">
         <div class="center spacer">
-            <h4>Select Subreddits:</h4>
+            <h4>Select Subreddit(s):</h4>
         </div>
         <div id="subreddit-selection" class="center">
         </div>
@@ -62,18 +62,15 @@
                 onkeyup="flair.updateFilter(this.value)" onchange="flair.updateFilter(this.value)" />
             <label for="flair-filter-sheet">
                 <span>Filter by region:</span>
-                <select id="flair-filter-sheet" onchange="flair.updateRegionFilter(this.value)">
-                    <option value="ALL">All regions</option>
-                    <option value="kantoflair">Kanto</option>
-                    <option value="johtoflair">Johto</option>
-                    <option value="hoennflair">Hoenn</option>
-                    <option value="sinnohflair">Sinnoh</option>
-                    <option value="unovaflair">Unova</option>
-                    <option value="kalosflair">Kalos</option>
-                    <option value="alolaflair">Alola</option>
-                    <option value="megasflair">Megas</option>
-                    <option value="badgesflair">Badges</option>
-                    <option value="formsflair">Miscellaneous</option>
+                <select id="flair-filter-sheet" onchange="flair.updateFlairFilter(this.value)">
+                    <option value="ALL">All Units</option>
+                    <option value="rslegacy">RS Units - Legacy Batches</option>
+                    <option value="rs7star">RS Units - 7 Star Batches</option>
+                    <option value="rsoe">RS Units - Omni Evo Batches</option>
+                    <option value="freeall">Universal Non-RS Units</option>
+                    <option value="gl">Global Exclusive Units</option>
+                    <option value="jpeu">JP / EU Exclusive Units</option>
+                    <option value="alt">Alternate Unit Arts</option>
                 </select>
             </label>
         </div>

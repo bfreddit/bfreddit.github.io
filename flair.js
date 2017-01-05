@@ -40,6 +40,13 @@ flair.load__by_id = function() {
 }
 flair.by_id = {}
 flair.names = {
-/* [STANDARD] */
+/* [RS-LEGACY] */
     "1 rslegacy 750": "Dragon God Granados",
+	"2 rslegacy 751": "Aqua Goddess Abel",
+	"3 rslegacy 752": "Elf Queen Arbonella",
+	"4 rslegacy 753": "Bolt Phoenix Ardas",
+	"5 rslegacy 754": "Sky Goddess Raquel",
+	"6 rslegacy 755": "Dark Lord Zaboeth",
+/* [RS-7STAR] */
+    "1 rs7star 852": "Brimstone Emperor Alpha",
 };

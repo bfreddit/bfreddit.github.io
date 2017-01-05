@@ -177,7 +177,7 @@ button:active, input[type=submit]:active {
     align-items: center;
     -webkit-justify-content: center;
     justify-content: center;
-    width: 40px;
+    width: 35px;
     height: 35px;
     cursor: pointer;
     margin: 6px 2px;

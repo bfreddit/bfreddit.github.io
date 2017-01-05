@@ -40,13 +40,25 @@ flair.load__by_id = function() {
 }
 flair.by_id = {}
 flair.names = {
-/* [RS-LEGACY] */
+/* [RS - LEGACY] */
     "1 rslegacy 750": "Dragon God Granados",
 	"2 rslegacy 751": "Aqua Goddess Abel",
 	"3 rslegacy 752": "Elf Queen Arbonella",
 	"4 rslegacy 753": "Bolt Phoenix Ardas",
 	"5 rslegacy 754": "Sky Goddess Raquel",
 	"6 rslegacy 755": "Dark Lord Zaboeth",
-/* [RS-7STAR] */
+/* [RS - 7 STAR] */
     "1 rs7star 852": "Brimstone Emperor Alpha",
+/* [RS - OMNI EVO] */
+    "1 rsoe 1309": "Fabled Emperor Kulyuk",
+/* [NON-RS UNITS] */
+    "1 freeall 1302": "Ignis Halcyon Vargas",
+/* [GLOBAL] */
+    "1 gl 8033": "Titan Wing Blaze",
+/* [JP + EU] */
+    "27 jpeu 1195": "Haruto",
+/* [ALT] */
+    "1 alt 880": "Angelic Blades Sefia (Alt)",
+	"2 alt 1002": "Wildfire Lotus Michele (Alt)",
+	"3 alt 8132": "Deimos Thunderborn (Alt)",
 };

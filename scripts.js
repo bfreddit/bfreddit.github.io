@@ -5,7 +5,7 @@ flair.typing_timeout = null;
 
 flair.subreddits = ['bravefrontier'];
 
-flair.updateRegionFilter = function(sheet_name) {
+flair.updateFlairFilter = function(sheet_name) {
     if (sheet_name == 'ALL') {
         flair.sheet_filter = null;
     } else {

@@ -106,8 +106,7 @@ flair.sendChoice = function() {
     
     window.open('http://www.reddit.com/message/compose/?to=MimicBot&subject='+
         flair.current_choice+
-        '&message='+flair_text+'%0A'+
-        subreddits)
+        '&message='+flair_text)
 }
 
 flair.selectChoice = function(unit_id, key) {

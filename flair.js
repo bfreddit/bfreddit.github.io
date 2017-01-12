@@ -298,6 +298,9 @@ flair.names = {
 	"57 rsoe 253": "Camilla",
 	"58 rsoe 254": "Freed",
 	"59 rsoe 255": "Owen",
+	"60 rsoe 256": "Valen",
+	"61 rsoe 257": "Regil",
+	"62 rsoe 258": "Zalvard",
 /* [NON-RS UNITS] */
     "1 freeall f1": "Ignis Halcyon Vargas",
 	"2 freeall f2": "Algor Halcyon Selena",

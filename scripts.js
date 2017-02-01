@@ -106,7 +106,7 @@ flair.sendChoice = function() {
     
     window.open('http://www.reddit.com/message/compose/?to=MimicBot&subject='+
         flair.current_choice+
-        '&message='+flair_text)
+        '&message='+flair_text'%0A'+'%0A'+"Filler Text. This will allow you to send a message with no flair text.")
 }
 
 flair.selectChoice = function(unit_id, key) {

@@ -495,8 +495,8 @@ flair.names = {
 	"1-21 gl l21": "Fina (GL)",
 	"1-22 gl l22": "Silent Sentinel Silvie",
 	"1-23 gl l23": "Blazing Phoenix Feng",
-	"1-24 gl 124": "Leona",
-	"1-25 gl 125": "Laughing Devil Long",
+	"1-24 gl l24": "Leona",
+	"1-25 gl l25": "Laughing Devil Long",
 /* [JP + EU] */
     "1 jpeu a1": "Randi",
 	"2 jpeu a2": "Primm",

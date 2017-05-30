@@ -624,7 +624,7 @@ flair.names = {
 	"110 jpeu e60": "Flawless Assassin Natalamé",
 	"111 jpeu e61": "Techtonic Ruler Cobalt",
 	"112 jpeu e62": "Magma Apex Surt",
-	"113 jpeu e63": "Wonder Apex Auhlavez",
+	"113 jpeu e63": "Wisdom Apex Auhlavez",
 /* [ALT] */
     "1 alt 26-alt": "Salacia Persei Elimo (Alt)",
     "2 alt 39-alt": "Angelic Blades Sefia (Alt)",

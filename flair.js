@@ -591,7 +591,7 @@ flair.names = {
 	"72 jpeu e22": "Bad Lands Queen Gazolina",
 	"73 jpeu e23": "Heavy Voodoo Child",
 	"74 jpeu e24": "Stratospheric Crash Belt",
-	"75 jpeu e25": "Lightspeed Bloody Blink",
+	"75 jpeu e25": "Avenging Angel Blink",
 	"76 jpeu e26": "Warlord Pig-Bull",
 	"77 jpeu e27": "Fallen Morgana",
 	"78 jpeu e28": "Viviane & Excalibur",

@@ -658,6 +658,6 @@ flair.names = {
     "1 alt 26-alt": "Salacia Persei Elimo (Alt)",
     "2 alt 39-alt": "Angelic Blades Sefia (Alt)",
 	"3 alt g22-alt": "Deimos Thunderborn (Alt)",
-	"3 alt g45-alt": "White Death Ravea (Alt)",
-	"3 alt g46-alt": "Steel Magnus Dessit (Alt)",
+	"4 alt g45-alt": "White Death Ravea (Alt)",
+	"5 alt g46-alt": "Steel Magnus Dessit (Alt)",
 };

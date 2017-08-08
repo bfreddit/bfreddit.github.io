@@ -81,12 +81,12 @@ flair.names = {
 	"38 rslegacy 38": "Heaven's Bolt Amy",
 	"39 rslegacy 39": "Angelic Blades Sefia",
 	"40 rslegacy 40": "Demonic Idol Kikuri",
-	"41 rslegacy 41": "Michele", /* Needs a Name Update */
+	"41 rslegacy 41": "Vesta Padma Michele",
 	"42 rslegacy 42": "Final Apostle Tiara",
 	"43 rslegacy 43": "Blade Emperor Zelban",
 	"44 rslegacy 44": "Empyreal Drake Lodin",
 	"45 rslegacy 45": "Invictus Xeno Melchio",
-	"46 rslegacy 46": "DUEL-FGXVM", /* Needs a Name Check */
+	"46 rslegacy 46": "DUEL-FGXVM",
 	"47 rslegacy 47": "Unleashed Ravana Vishra",
 	"48 rslegacy 48": "Hailstorm Armor Reeze",
 	"49 rslegacy 49": "Noble Fist Dilma",
@@ -128,7 +128,7 @@ flair.names = {
 	"85 rslegacy 85": "Chivalrous Thief Zelnite",
 	"86 rslegacy 86": "Beast God Exvehl",
 	"87 rslegacy 87": "Seraph Azael",
-	"88 rslegacy 88": "Tyrant Lilly Matah",
+	"88 rslegacy 88": "Lilly Matah", /*Needs Name Update*/
 	"89 rslegacy 89": "God Emperor Orwen",
 	"90 rslegacy 90": "Ice God Arius",
 	"91 rslegacy 91": "Flora Goddess Faris",
@@ -166,8 +166,8 @@ flair.names = {
 	"4 rs7star 122": "Divine Law Kanon",
 	"5 rs7star 123": "Vexing Monarch Kira",
 	"6 rs7star 124": "Sublime Darkness Feeva",
-	"7 rs7star 125": "Magma Twin-Pike Claire",
-	"8 rs7star 126": "Glacier Twin-Blade Colt",
+	"7 rs7star 125": "Claire", /*Needs Name Update*/
+	"8 rs7star 126": "Colt", /*Needs Name Update*/
 	"9 rs7star 127": "Heroic Leader Quaid",
 	"10 rs7star 128": "Thunderbird Sabre Diana",
 	"11 rs7star 129": "Radiant Virtue Fadahl",
@@ -323,11 +323,19 @@ flair.names = {
 	"82 rsoe 278": "Accursed Calamity Velma",
 	"83 rsoe 279": "Final Petal Phileine",
 	"84 rsoe 280": "Death Soul Mizo Dorte",
-	"85 rsoe 281": "Jireido", /* Needs a Name Update */
-	"86 rsoe 282": "Soros", /* Needs a Name Update */
-	"87 rsoe 283": "Divine Phoenix Jakra", /* Needs a Name Check */
-	"88 rsoe 284": "Divine Wolf Ishnir", /* Needs a Name Check */
-	"89 rsoe 285": "Divine Machine Bexdyne", /* Needs a Name Check */
+	"85 rsoe 281": "Colossal Spirit Jireid",
+	"86 rsoe 282": "Master Sage Solos",
+	"87 rsoe 283": "Sacred Ashes Jakra",
+	"88 rsoe 284": "Sacred Judge Isniel",
+	"89 rsoe 285": "Sacred Shift Becstain",
+	"90 rsoe 286": "Divine Armor Barvars", /*Needs Name Update*/
+	"91 rsoe 287": "Divine Dragon Rugroa", /*Needs Name Update*/
+	"92 rsoe 288": "Arsom", /*Needs Name Update*/
+	"93 rsoe 289": "Receus", /*Needs Name Update*/
+	"94 rsoe 290": "Dick Reso", /*Needs Name Update*/
+	"95 rsoe 291": "Vaisal", /*Needs Name Update*/
+	"96 rsoe 292": "Eriana", /*Needs Name Update*/
+	"97 rsoe 293": "Marlo", /*Needs Name Update*/
 /* [NON-RS UNITS] */
     "1 freeall f1": "Ignis Halcyon Vargas",
 	"2 freeall f2": "Algor Halcyon Selena",
@@ -400,12 +408,14 @@ flair.names = {
 	"80 freeall m30": "Ruling God Zevalhua",
 	"81 freeall m31": "Inception God Maxwell",
 	"82 freeall m32": "Sovereign God Cardes",
-	"83 freeall m33": "Adjutant Mel",
+	"83 freeall m33": "Mel", /*Needs Name Update*/
 	"84 freeall m34": "Dragon Warrior Liomerg",
 	"85 freeall m35": "Demonic Witch Xie'Jing",
 	"86 freeall m36": "Callow Flame Owen",
 	"87 freeall m37": "Callow Shadow Grahdens",
-	"88 freeall m38": "Lucius (Omni)", /* Needs a Name Update */
+	"88 freeall m38": "Sacred God Lucius",
+	"89 freeall m39": "Garret", /*Needs Name Update*/
+	"90 freeall m40": "Alza Masta", /*Needs Name Update*/
 /* [GLOBAL] */
     "1 gl d1": "Titan Wing Blaze",
 	"2 gl d2": "Abyssal Wing Sae",
@@ -492,8 +502,10 @@ flair.names = {
 	"91 gl g41": "Viper Blitzkrieg Durumn",
 	"92 gl g42": "Silver Mechmagos Ceulfan",
 	"93 gl g43": "Titanbane Primus Keres",
-	"94 gl g44": "Sunless Warden Rahotep",
-	"95 gl g45": "Midnight Judge Neferet",
+	"94 gl g44": "Battle Admiral Laresa",
+	"95 gl g45": "White Death Ravea",
+	"96 gl g46": "Steel Magnus Dessit",
+	"98 gl g48": "Mobile Pathfinder Enile",
 	"101 gl l1": "Infinity Starsage Zeruiah",
 	"102 gl l2": "Lycanthrope Randolph",
 	"103 gl l3": "Landeythan Ravenna",
@@ -524,6 +536,11 @@ flair.names = {
 	"1-28 gl l28": "Millia",
 	"1-29 gl l29": "Jack-O'",
 	"1-30 gl l30": "Ramlethal",
+	"1-31 gl l31": "Sunless Warden Rahotep",
+	"1-33 gl l33": "Divine Rogue Hetepheres",
+	"1-34 gl l34": "Dusk Star Khepratum",
+	"1-36 gl l36": "Midnight Judge Neferet",
+	"1-37 gl l37": "Immortal Firewing Blaze",
 /* [JP + EU] */
     "1 jpeu a1": "Randi",
 	"2 jpeu a2": "Primm",
@@ -616,8 +633,8 @@ flair.names = {
 	"97 jpeu e47": "Scorpio of Secrets",
 	"98 jpeu e48": "Riftwalker Sedrac",
 	"99 jpeu e49": "Ninmah, Noblesses' Moon",
-	"100 jpeu e50": "Enki, Kingdom Devourer",
-	"101 jpeu e51": "Chimerical Prince Amadeus",
+	"100 jpeu e50": "Superior Kaiser Enki",
+	"101 jpeu e51": "Utopian Chimera Amadeus",
 	"102 jpeu e52": "Royal Guard Galahad",
 	"103 jpeu e53": "Kingslayer Lancelot",
 	"104 jpeu e54": "Lucy & Prince Bogey",
@@ -634,9 +651,13 @@ flair.names = {
 	"115 jpeu e65": "Lonely Apex Sheriff",
 	"116 jpeu e66": "Kaiser Apex Gilgamesh",
 	"117 jpeu e67": "Wisdom Apex Auhlavez",
+	"118 jpeu e68": "Trinity Goddess Htilit",
+	"1-19 jpeu e69": "Lunatic Warrior Jeanne",
+	"1-20 jpeu e70": "Harsh Terror Robespierre",
 /* [ALT] */
     "1 alt 26-alt": "Salacia Persei Elimo (Alt)",
     "2 alt 39-alt": "Angelic Blades Sefia (Alt)",
-	"3 alt 41-alt": "Wildfire Lotus Michele (Alt)",
-	"4 alt g22-alt": "Deimos Thunderborn (Alt)",
+	"3 alt g22-alt": "Deimos Thunderborn (Alt)",
+	"3 alt g45-alt": "White Death Ravea (Alt)",
+	"3 alt g46-alt": "Steel Magnus Dessit (Alt)",
 };

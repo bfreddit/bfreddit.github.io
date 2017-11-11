@@ -699,7 +699,7 @@ flair.names = {
 	"5 alt g46-alt": "Steel Magnus Dessit (Alt)",
 	"6 alt g49-alt": "Warp Arcanist Savei (Alt)",
 	"7 alt 267-alt": "Disnomian Emperor Shion (Alt)",
-	"8 alt m41-alt": "Ezra (Alt)"
+	"8 alt m41-alt": "Ezra (Alt)",
 	"9 alt m35-alt": "Demonic Witch Xie'Jing (Alt)",
 	"11 alt g41-alt": "Viper Blitzkrieg Durumn (Alt)",
 };

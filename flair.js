@@ -56,7 +56,7 @@ flair.names = {
 	"13 rslegacy 13": "Immortal Phoenix Levarza",
 	"14 rslegacy 14": "Felneus",
 	"15 rslegacy 15": "Gaia Tree Vertri",
-	"16 rslegacy 16": "Ultimagia (Behemoth)", /* NAME UPDATE */
+	"16 rslegacy 16": "Ultimate Behemoth",
 	"17 rslegacy 17": "Supreme Dragon Elderex",
 	"18 rslegacy 18": "Hellborn Dilias",
 	"19 rslegacy 19": "Ignis Vestae Lava",
@@ -73,10 +73,10 @@ flair.names = {
 	"30 rslegacy 30": "Soul Vortex Lemia",
 	"31 rslegacy 31": "Taskmaster Lorand",
 	"32 rslegacy 32": "Ice Master Dean",
-	"33 rslegacy 33": "Edea", /* NAME UPDATE */
-	"34 rslegacy 34": "Loch", /* NAME UPDATE */
+	"33 rslegacy 33": "Edea", /* --- NAME UPDATE --- */
+	"34 rslegacy 34": "Loch", /* --- NAME UPDATE --- */
 	"35 rslegacy 35": "Drake Angel Aisha",
-	"36 rslegacy 36": "Twin Arms Rickel",
+	"36 rslegacy 36": "Miri (Rickel)", /* --- NAME UPDATE --- */
 	"37 rslegacy 37": "Gaians Il & Mina",
 	"38 rslegacy 38": "Heaven's Bolt Amy",
 	"39 rslegacy 39": "Hallowed Dance Sefia",
@@ -100,17 +100,17 @@ flair.names = {
 	"57 rslegacy 57": "Leorone",
 	"58 rslegacy 58": "God Eater Lira",
 	"59 rslegacy 59": "Crimson Phoenix Farlon",
-	"60 rslegacy 60": "Blizzard Fang Signas",
+	"60 rslegacy 60": "Signas", /* --- NAME UPDATE --- */
 	"61 rslegacy 61": "Mayhem Empress Luly",
 	"62 rslegacy 62": "Gilded Dogma Rina",
 	"63 rslegacy 63": "Paladin Crusader Sodis",
-	"64 rslegacy 64": "Midnight Allure Lunaris",
+	"64 rslegacy 64": "Lunaris", /* --- NAME UPDATE --- */
 	"65 rslegacy 65": "Siva Afi Ramna",
 	"66 rslegacy 66": "Icicle Lance Raydn",
 	"67 rslegacy 67": "Cyclonic Heroine Ophelia",
 	"68 rslegacy 68": "Optimum Mecha Grybe",
 	"69 rslegacy 69": "Glorious Crusader Alyut",
-	"70 rslegacy 70": "Phantom Victor Zephyr",
+	"70 rslegacy 70": "Zephyr", /* --- NAME UPDATE --- */
 	"71 rslegacy 71": "Inferno Princess Dia",
 	"72 rslegacy 72": "Aqua Pura Lucina",
 	"73 rslegacy 73": "Impenetrable Darvan",
@@ -179,11 +179,11 @@ flair.names = {
 	"17 rs7star 135": "Demon Champion Raaga",
 	"18 rs7star 136": "Grave Carver Aaron",
 	"19 rs7star 137": "Inferno Revolution Ruby",
-	"20 rs7star 138": "Medina", /* NAME UPDATE */
-	"21 rs7star 139": "Dion", /* NAME UPDATE */
-	"22 rs7star 140": "Balgran", /* NAME UPDATE */
-	"23 rs7star 141": "Rinon", /* NAME UPDATE */
-	"24 rs7star 142": "Yuura", /* NAME UPDATE */
+	"20 rs7star 138": "Aquamarine Knight Medina",
+	"21 rs7star 139": "Parallel Tempest Dion",
+	"22 rs7star 140": "Rumbling Blade Balgran",
+	"23 rs7star 141": "Sublime Divinity Rinon",
+	"24 rs7star 142": "Wise Necromancer Yuura",
 	"25 rs7star 143": "Inferno Rifle Bestie",
 	"26 rs7star 144": "Lance Champion Vernil",
 	"27 rs7star 145": "Feral Katana Toutetsu",
@@ -343,14 +343,16 @@ flair.names = {
 	"102 rsoe 298": "Storm Guardian Razak",
 	"103 rsoe 299": "Inferno Grandeur Ludero",
 	"104 rsoe 300": "Booming Charge Gandrei",
-	"105 rsoe 301": "Crystal Staff Rumis", /* NAME UPDATE */
-	"106 rsoe 302": "Thundering Maul Ordine", /* NAME UPDATE */
-	"107 rsoe 303": "Sacred Sword Alan", /* NAME UPDATE */
-	"108 rsoe 304": "Sacred Sword Ragina", /* NAME UPDATE */
-	"109 rsoe 305": "Daltisk", /* NAME UPDATE */
-	"110 rsoe 306": "Amadurim", /* NAME UPDATE */
-	"111 rsoe 307": "Zegstia", /* NAME UPDATE */
-	"112 rsoe 308": "Wintia", /* NAME UPDATE */
+	"105 rsoe 301": "Winged Mercy Lumis",
+	"106 rsoe 302": "Killer Bolt Ordine",
+	"107 rsoe 303": "Divine Blade Alan",
+	"108 rsoe 304": "Deadly Edges Ragina",
+	"109 rsoe 305": "Daltisk", /* --- NAME UPDATE --- */
+	"110 rsoe 306": "Amadurim", /* --- NAME UPDATE --- */
+	"111 rsoe 307": "Zegstia", /* --- NAME UPDATE --- */
+	"112 rsoe 308": "Wintia", /* --- NAME UPDATE --- */
+	"113 rsoe 309": "Rimylette", /* --- NAME UPDATE --- */
+	"114 rsoe 310": "Rokuraiza", /* --- NAME UPDATE --- */
 /* [NON-RS UNITS] */
     "1 freeall f1": "Ignis Halcyon Vargas",
 	"2 freeall f2": "Algor Halcyon Selena",
@@ -432,7 +434,7 @@ flair.names = {
 	"89 freeall m39": "Loyal Servant Garrett",
 	"90 freeall m40": "Pious Emperor Alza Masta",
 	"91 freeall m41": "Ezra",
-	"92 freeall m42": "Holy Emperor Karna Masta", /* NAME UPDATE */
+	"92 freeall m42": "Holy Emperor Karna Masta",
 /* [GLOBAL] */
     "1 gl d1": "Titan Wing Blaze",
 	"2 gl d2": "Abyssal Wing Sae",
@@ -477,6 +479,8 @@ flair.names = {
 	"41 gl d41": "Eldritch Rocker Haido",
 	"42 gl d42": "Autonomous Cotton",
 	"43 gl d43": "Mard Geer",
+	"44 gl d44": "Logi",
+	"45 gl d45": "Foxblade Kitsu",
 	"51 gl g1": "Abyssal Witch Ciara",
 	"52 gl g2": "Pumleficent Semira",
 	"53 gl g3": "Raging Nick",
@@ -507,7 +511,7 @@ flair.names = {
 	"78 gl g28": "Loremaster Allanon",
 	"79 gl g29": "Little Sister Nyami",
 	"80 gl g30": "Doombringer Azurai",
-	"81 gl g31": "Terror Fist Nyala",
+	"81 gl g31": "Big Sister Nyala",
 	"82 gl g32": "Scourgemistress Adriesta",
 	"83 gl g33": "Fate-Eater Ilm",
 	"84 gl g34": "White Wulf Faelan",
@@ -526,6 +530,7 @@ flair.names = {
 	"97 gl g47": "Sonic Blaster Vashi",
 	"98 gl g48": "Mobile Pathfinder Enile",
 	"99 gl g49": "Warp Arcanist Savei",
+	"100 gl g50": "Tridon the Judicious",
 	"101 gl l1": "Infinity Starsage Zeruiah",
 	"102 gl l2": "Lycanthrope Randolph",
 	"103 gl l3": "Landeythan Ravenna",
@@ -564,6 +569,8 @@ flair.names = {
 	"1-38 gl l38": "Great Omniscience Sae",
 	"1-39 gl l39": "Dark Soul Dranoel",
 	"1-40 gl l40": "Storm Queen Cerise",
+	"1-41 gl l41": "Brilliant Flash Fiona",
+	"1-42 gl l42": "Occult Reaper Ciardha",
 	"1-43 gl l43": "Natsu Dragneel",
 	"1-44 gl l44": "Gray Fullbuster",
 	"1-45 gl l45": "Erza Scarlet",
@@ -571,9 +578,14 @@ flair.names = {
 	"1-47 gl l47": "Carnal Domia Beatrix",
 	"1-48 gl l48": "Baiken",
 	"1-49 gl l49": "Leo Whitefang",
+	"1-50 gl l50": "Johnny",
 /* [GL Extended] */
 	"1 gle g51": "Fate-Holder al-Akqat",
 	"3 gle g53": "Verdant Góēs Nimune",
+	"26 gle l51": "May",
+	"27 gle l52": "Lofia",
+	"28 gle l53": "Chloe",
+	"29 gle l54": "Cheery Bjørn & Linlin",
 /* [JP + EU] */
     "1 jpeu a1": "Randi",
 	"2 jpeu a2": "Primm",

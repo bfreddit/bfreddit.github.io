@@ -73,10 +73,10 @@ flair.names = {
 	"30 rslegacy 30": "Soul Vortex Lemia",
 	"31 rslegacy 31": "Taskmaster Lorand",
 	"32 rslegacy 32": "Ice Master Dean",
-	"33 rslegacy 33": "Edea", /* --- NAME UPDATE --- */
-	"34 rslegacy 34": "Loch", /* --- NAME UPDATE --- */
+	"33 rslegacy 33": "Graceful Ruler Edea",
+	"34 rslegacy 34": "Divine Storm Loch",
 	"35 rslegacy 35": "Drake Angel Aisha",
-	"36 rslegacy 36": "Miri (Rickel)", /* --- NAME UPDATE --- */
+	"36 rslegacy 36": "Divine Revolvers Millie",
 	"37 rslegacy 37": "Gaians Il & Mina",
 	"38 rslegacy 38": "Heaven's Bolt Amy",
 	"39 rslegacy 39": "Hallowed Dance Sefia",
@@ -100,17 +100,17 @@ flair.names = {
 	"57 rslegacy 57": "Leorone",
 	"58 rslegacy 58": "God Eater Lira",
 	"59 rslegacy 59": "Crimson Phoenix Farlon",
-	"60 rslegacy 60": "Signas", /* --- NAME UPDATE --- */
+	"60 rslegacy 60": "Alpha Leader Signas",
 	"61 rslegacy 61": "Mayhem Empress Luly",
 	"62 rslegacy 62": "Gilded Dogma Rina",
 	"63 rslegacy 63": "Paladin Crusader Sodis",
-	"64 rslegacy 64": "Lunaris", /* --- NAME UPDATE --- */
+	"64 rslegacy 64": "Bewitching Wings Lunaris",
 	"65 rslegacy 65": "Siva Afi Ramna",
 	"66 rslegacy 66": "Icicle Lance Raydn",
 	"67 rslegacy 67": "Cyclonic Heroine Ophelia",
 	"68 rslegacy 68": "Optimum Mecha Grybe",
 	"69 rslegacy 69": "Glorious Crusader Alyut",
-	"70 rslegacy 70": "Zephyr", /* --- NAME UPDATE --- */
+	"70 rslegacy 70": "Sacred Teachings Zephyr",
 	"71 rslegacy 71": "Inferno Princess Dia",
 	"72 rslegacy 72": "Aqua Pura Lucina",
 	"73 rslegacy 73": "Impenetrable Darvan",
@@ -347,12 +347,12 @@ flair.names = {
 	"106 rsoe 302": "Killer Bolt Ordine",
 	"107 rsoe 303": "Divine Blade Alan",
 	"108 rsoe 304": "Deadly Edges Ragina",
-	"109 rsoe 305": "Daltisk", /* --- NAME UPDATE --- */
-	"110 rsoe 306": "Amadurim", /* --- NAME UPDATE --- */
-	"111 rsoe 307": "Zegstia", /* --- NAME UPDATE --- */
-	"112 rsoe 308": "Wintia", /* --- NAME UPDATE --- */
-	"113 rsoe 309": "Rimylette", /* --- NAME UPDATE --- */
-	"114 rsoe 310": "Rokuraiza", /* --- NAME UPDATE --- */
+	"109 rsoe 305": "True Revelation Daltisk",
+	"110 rsoe 306": "Intact Champion Amadream",
+	"111 rsoe 307": "Imperial Ruin Zegstia",
+	"112 rsoe 308": "Loving Bonds Wintia",
+	"113 rsoe 309": "Endless Cycle Limilnate",
+	"114 rsoe 310": "Perpetual Flaw Roglizer",
 /* [NON-RS UNITS] */
     "1 freeall f1": "Ignis Halcyon Vargas",
 	"2 freeall f2": "Algor Halcyon Selena",
@@ -472,7 +472,7 @@ flair.names = {
 	"34 gl d34": "Silver Wolf Barienna",
 	"35 gl d35": "Demon Mira",
 	"36 gl d36": "Perdition Goddess Lucia",
-	"37 gl d37": "Brave Kurewa & Kuraginn",
+	"37 gl d37": "Fabled Kurewa & Kuraginn",
 	"38 gl d38": "Kyo Kusanagi",
 	"39 gl d39": "Omega Rugal",
 	"40 gl d40": "Charlotte",
@@ -508,7 +508,7 @@ flair.names = {
 	"75 gl g25": "Boreal Tempest Haile",
 	"76 gl g26": "Monster Hunter Avani",
 	"77 gl g27": "Storm Champion Mikael",
-	"78 gl g28": "Loremaster Allanon",
+	"78 gl g28": "Arcane Sage Allanon",
 	"79 gl g29": "Little Sister Nyami",
 	"80 gl g30": "Doombringer Azurai",
 	"81 gl g31": "Big Sister Nyala",
@@ -562,14 +562,16 @@ flair.names = {
 	"1-29 gl l29": "Jack-O'",
 	"1-30 gl l30": "Ramlethal",
 	"1-31 gl l31": "Sunless Warden Rahotep",
+	"1-32 gl l32": "Crocodile Lord Kawab",
 	"1-33 gl l33": "Divine Rogue Hetepheres",
 	"1-34 gl l34": "Dusk Star Khepratum",
+	"1-35 gl l35": "Bright Star Persenet",
 	"1-36 gl l36": "Midnight Judge Neferet",
 	"1-37 gl l37": "Immortal Firewing Blaze",
 	"1-38 gl l38": "Great Omniscience Sae",
 	"1-39 gl l39": "Dark Soul Dranoel",
 	"1-40 gl l40": "Storm Queen Cerise",
-	"1-41 gl l41": "Brilliant Flash Fiona",
+	"1-41 gl l41": "Brilliant Flash Fionna",
 	"1-42 gl l42": "Occult Reaper Ciardha",
 	"1-43 gl l43": "Natsu Dragneel",
 	"1-44 gl l44": "Gray Fullbuster",
@@ -582,10 +584,22 @@ flair.names = {
 /* [GL Extended] */
 	"1 gle g51": "Fate-Holder al-Akqat",
 	"3 gle g53": "Verdant Góēs Nimune",
+	"7 gle g57": "Demon Ulfhednar Zelion",
+	"8 gle g58": "Adamant Ancient Svalinn",
+	"9 gle g59": "Time-Weaver Elaina",
 	"26 gle l51": "May",
 	"27 gle l52": "Lofia",
 	"28 gle l53": "Chloe",
 	"29 gle l54": "Cheery Bjørn & Linlin",
+	"30 gle l55": "Calescent Yan & Yuan",
+	"31 gle l56": "Glacial Vail & Vidron",
+	"32 gle l57": "Merciful Honoka & Hisa",
+	"36 gle l61": "Priestess Snow Miku",
+	"37 gle l62": "Randolph & Ravenna",
+	"38 gle l63": "Twinkle Snow Miku",
+	"39 gle l64": "N'an-Wang-Mu",
+	"40 gle l65": "Sweet Harlequin Ellie",
+	"41 gle l66": "Xenon, Son of Elysia",
 /* [JP + EU] */
     "1 jpeu a1": "Randi",
 	"2 jpeu a2": "Primm",
